@@ -1,4 +1,4 @@
-# 🌿 Saúde e Bem-Estar | Site Responsivo
+# 🌿 Saúde e Bem-Estar
 
 Este projeto é um site simples e moderno voltado para o tema **Saúde e Bem-Estar**, desenvolvido com HTML5, CSS3 e um toque de design interativo com vídeo de fundo. Ele foi criado como parte do meu aprendizado no [DevClub](https://devclub.com.br), onde estou desenvolvendo habilidades práticas em desenvolvimento web.
 
@@ -12,7 +12,6 @@ Durante o desenvolvimento deste site, pratiquei os seguintes conceitos:
 - 🎨 Estilização moderna com **CSS3**
 - 📺 Integração de **vídeo de fundo**
 - 🧱 Layouts com **Flexbox**
-- 🌐 Criação de menus responsivos e posicionamento absoluto
 - 🎯 Design com foco em **acessibilidade visual** (contraste, sombras, fontes)
 - 🧪 Separação de código em **HTML + CSS**
 
@@ -30,7 +29,7 @@ Durante o desenvolvimento deste site, pratiquei os seguintes conceitos:
 
 ## 📸 Prévia do Projeto
 
-![preview](./imgs/Captura%20de%20tela%202025-06-30%20230808.png)
+![preview](./imgs/imagem-interface.png)
 
 > A interface contém um cabeçalho com logo e menu, texto introdutório sobre saúde e bem-estar e um vídeo de fundo suave e responsivo.
 
