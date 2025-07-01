@@ -39,4 +39,4 @@ Durante o desenvolvimento deste site, pratiquei os seguintes conceitos:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://isaquep-06.github.io/Aulas-DevClub/
