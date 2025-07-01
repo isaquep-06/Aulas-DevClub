@@ -12,6 +12,7 @@ body {
 header {
     display: flex;
     align-items: center;
+    justify-content: center;
     position: absolute;
     width: 100%;
 }
@@ -27,13 +28,15 @@ header {
 }
 
 li {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
-    color: #333;
+    color: #363535;
     transition: color 0.3s ease;
-   background: linear-gradient(to right, #f0f0f067, #e0e0e02a);
-    padding: 10px;
+    background: linear-gradient(to bottom, #f0f0f067, #2322222a);
+    padding: 5px;
     border-radius: 5px;
+    cursor: pointer;
+    text-shadow: 2px 2px 2px #00000042;
 }
 
 
@@ -45,8 +48,18 @@ li {
 
 .logo {
     width: 200px;
+    cursor: pointer;
 }
-
+.ul-perfil {
+    display: flex;
+    gap: 30px;
+}
+.perfil-img {
+    width: 25px;
+    position: relative;
+    right: 30px;
+    cursor: pointer;
+}
 /* Main - Parte Principal */
 
 main {
@@ -66,12 +79,12 @@ video {
     z-index: 10;
     top: 400px;
     left: 50%;
-    
+
 }
 
 .titulo-subtitulo-h1-p-pai {
     background-color: #3a393927;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     border-top-left-radius: 70px;
     padding: 15px;
 
@@ -90,7 +103,6 @@ p {
     width: 100%;
     max-width: 1100px;
     text-align: start;
-    color: #333 !important;
     text-shadow: 2px 2px 4px #000000;
 }
 
@@ -98,5 +110,19 @@ b {
     font-family: system-ui;
     font-weight: 100;
     font-size: 28px;
-    color: #3a3939;
+    color: #ffffffad;
+}
+
+button {
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #f4c90e;
+    background-color: #00000012;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+    border: none;
+    position: relative;
+    top: 10px;
+    cursor: pointer;
 }
