@@ -35,8 +35,7 @@ Durante o desenvolvimento deste site, pratiquei os seguintes conceitos:
 
 ---
 
-## 📁 Como Rodar o Projeto
+## 📁 Como Rodar o Projeto <img src='./imgs/clique.png' width=20px>
 
-1. Clone o repositório:
-```bash
-git clone https://isaquep-06.github.io/Aulas-DevClub/
+1. LInk para acessar o repositório: 
+<a href='https://isaquep-06.github.io/Aulas-DevClub/'>https://isaquep-06.github.io/Aulas-DevClub/ <img src='./imgs/clique.png' width=20px></a> 
