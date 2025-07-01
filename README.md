@@ -38,4 +38,4 @@ Durante o desenvolvimento deste site, pratiquei os seguintes conceitos:
 ## 📁 Como Rodar o Projeto <img src='./imgs/clique.png' width=20px>
 
 1. LInk para acessar o repositório: 
-<a href='https://isaquep-06.github.io/Aulas-DevClub/'>https://isaquep-06.github.io/Aulas-DevClub/ <img src='./imgs/clique.png' width=20px></a> 
+<a href='https://isaquep-06.github.io/Aulas-DevClub/'>https://isaquep-06.github.io/Aulas-DevClub/ <img src='./imgs/link-externo.png' width=14px></a> 
